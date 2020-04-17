@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "505819355852",
+    "firebase_url": "https://do-you-flutter-82772.firebaseio.com",
+    "project_id": "do-you-flutter-82772",
+    "storage_bucket": "do-you-flutter-82772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505819355852:android:3d1ba2c365fc3b759f8069",
+        "android_client_info": {
+          "package_name": "com.example.do_you_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505819355852-nb4s16rsclq2ar0kja9iv78v964of0be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFVHU8VRzhLrk005QgqU31o9x9F43fNho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505819355852-nb4s16rsclq2ar0kja9iv78v964of0be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
